@@ -126,3 +126,23 @@ body {
     padding: 0 1em;
     margin: 2em 20% 0 18%;
 }
+
+#section-d article{
+    width: 50%;
+    height: 310px;
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 5em 2em;
+}
+
+#section-d h2 {
+    font-size: 26.4px;
+    font-weight: bold;
+    padding-bottom: 1.5em;
+}
+
+
+
+
+
