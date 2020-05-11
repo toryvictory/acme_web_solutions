@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17.6px;
@@ -12,7 +12,7 @@ body{
     /*background: #333333;*/
 }
 
-#banner{
+#banner {
     background: url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
     color: #ffffff;
     text-align: center;
@@ -49,12 +49,12 @@ body{
     text-decoration: none;
 }
 
-#section-a{
+#section-a {
     background: #eaeaea;
     color: #333;
 }
 
-#section-a h2{
+#section-a h2 {
     font-size: 26.4px;
     font-weight: bold;
     text-transform: capitalize;
@@ -62,7 +62,7 @@ body{
     padding: 26.4px 0;
 }
 
-#section-a p{
+#section-a p {
     display: inline-block;
     width: 28%;
 }
@@ -104,7 +104,25 @@ body{
     text-align: center;
     padding: 2em 1.5em;
 }
+
 #section-b p {
     padding: 0 1.1em 3em;
     text-align: center;
+}
+#section-c {
+    background: #fff;
+    padding: 3em 0;
+}
+
+#section-c h2 {
+    font-size: 26.4px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    padding: 0 1em;
+}
+#section-c p {
+    text-align: center;
+    padding: 0 1em;
+    margin: 2em 20% 0 18%;
 }
