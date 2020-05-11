@@ -53,6 +53,7 @@ body{
     background: #eaeaea;
     color: #333;
 }
+
 #section-a h2{
     font-size: 26.4px;
     font-weight: bold;
@@ -60,14 +61,50 @@ body{
     text-align: center;
     padding: 26.4px 0;
 }
+
 #section-a p{
     display: inline-block;
     width: 28%;
 }
+
 #column1 {
     margin: 0 2% 2.5em 19%;
 }
+
 #column2 {
     margin: 0 19% 2.5em 2%;
+}
 
+#section-b {
+    padding: 2em 19% 2em;
+    background: #333333;
+}
+
+#section-b article {
+    width: 15em;
+    display: inline-block;
+    background: #fff;
+    margin: 0 0.5em;
+}
+
+.imageContainer {
+    overflow: hidden;
+}
+
+#section-b img {
+    height: 10em;
+    width: 15em;
+    object-fit: cover;
+}
+
+#section-b h2 {
+    text-transform: capitalize;
+    font-size: 20.6px;
+    font-weight: bold;
+    text-align: center;
+    padding: 2em 1.5em;
+}
+#section-b p {
+    padding: 0 1.1em 3em;
+    text-align: center;
 }
