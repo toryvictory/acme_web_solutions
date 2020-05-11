@@ -48,3 +48,26 @@ body{
     background: #333;
     text-decoration: none;
 }
+
+#section-a{
+    background: #eaeaea;
+    color: #333;
+}
+#section-a h2{
+    font-size: 26.4px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 26.4px 0;
+}
+#section-a p{
+    display: inline-block;
+    width: 28%;
+}
+#column1 {
+    margin: 0 2% 2.5em 19%;
+}
+#column2 {
+    margin: 0 19% 2.5em 2%;
+
+}
