@@ -109,6 +109,7 @@ body {
     padding: 0 1.1em 3em;
     text-align: center;
 }
+
 #section-c {
     background: #fff;
     padding: 3em 0;
@@ -121,13 +122,14 @@ body {
     text-align: center;
     padding: 0 1em;
 }
+
 #section-c p {
     text-align: center;
     padding: 0 1em;
     margin: 2em 20% 0 18%;
 }
 
-#section-d article{
+#section-d article {
     width: 50%;
     height: 310px;
     display: inline-block;
@@ -142,6 +144,19 @@ body {
     padding-bottom: 1.5em;
 }
 
+#footer span {
+    display: inline-block;
+    width: 50%;
+    background: #000;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+}
+
+#footer a {
+    color: #2690d4;
+    text-decoration: none;
+}
 
 
 
